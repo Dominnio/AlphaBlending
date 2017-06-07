@@ -1,6 +1,6 @@
 # AlphaBlending
 
-Opis programu :<br />
+Opis programu :<br /><br />
 Program łączy ze sobą dwa obrazki w pewien szczególny sposób. Obrazki przenikają się na zmianę. Współczynnik krycia (alfa) jest obliczany funkcją sinus, której argumentem jest odległość danego punktu od punktu położenia myszki. Program wykorzystuje funkcję napisaną w języku asemblerowym intel x86-64. Nie uwzględniłem paddingu, a co za tym idzie obazki muszą mieć szerokość i wysokość podzielną przez 4.
 
 Uruchomienie programu w środowisku linux :
